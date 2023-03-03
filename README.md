@@ -9,7 +9,7 @@ Desarrollador autodidacta desde 2019, con titulo en lenguaje de programación py
 me gusta desarrollar proyectos para seguir mejorando y poder demostrar mis habilidades y manejo de librerias como Pygame,
 realizo cursos online continuamente para estar al dia de las tecnologias, poder aprender y aplicarlas en mis proyectos.
 He realizado cursos de Kotlin, Kivy, Django, Git, Github, Java, SQL.
-Siempre estoy dispues ha aprender de los demas, a aportar el 100% de mi y busco nuevos retos.
+Siempre estoy dispuesto ha aprender de los demas, a aportar el 100% de mi y busco nuevos retos.
 
 # Objetivos:
 Mi objetivo principal es convertirme en desarrollador de apps movil,
