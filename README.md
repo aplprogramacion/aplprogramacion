@@ -16,7 +16,8 @@ Mi objetivo principal es convertirme en desarrollador de apps movil,
 aunque no descarto nada que me pueda aportar experiencia ya sea un proyecto compartido o un trabajo.
 
 # Comunidades o grupos de programación:
-Actualmente no formo parte de ninguna comunidad, estoy en busca de alguna en la que pueda encajar y poder colaborar.
+Actualmente no formo parte de ninguna comunidad, estoy en busca de alguna en la que pueda encajar y poder colaborar,
+aunque sigo varias como mouredev, python y Kotlin en español.
 
 # Contacto:
 aplprogramacion@gmail.com
